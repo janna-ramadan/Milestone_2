@@ -1,0 +1,16 @@
+---
+title: "Milestone 2"
+author: "Janna Ramadan"
+date: "9/25/2020"
+output: html_document
+---
+
+## Milestone 2
+
+# Jad Mayah Women: and Religion in the Middle East
+# I chose to look at this project because of its use of public opinion and its impact on Women in the Middle East. It relates to my project ideas because I am thinking of working on a project that compares public opinion to frequency of discussion about Muslims in the U.S. I found the breakdown effective because it broke down public opinion on political and personal domains for all nations, then allowed for comparison to national sentiments towards fairer gender representation in government. Considering that the analysis surrounding the graphs emphasized the positions of power men occupy in the Middle East, the data on attitude of women in government per country could have only included men's opinions. Doing so would have allowed for the analysis to focus on the opinion on men in Arab nations because they are the ones effectively keeping women out of positions of power or heavily influencing national sentiment. Having women responses in the data ignores a positive bias because women would answer in support of themselves because of the self-benefits. Also, the breakdown of the religious to gender perception indexes was really clever to set it the different values and different transparencies. I didn't understand the graph at first, but the analysis did a great job of explaining that.
+
+# Katherine Menright 2019 Hong Kong Protests and Public Opinion
+# I also picked this project for its use of public opinion. It integreated public opinion with twitter account analysis, which honestly is giving me ideas to potentially use when formatting and presenting my project analysis. I think a massive strong point in her project was the analysis of twitter accounts bought by the Chinese government and their location base. The randomization of generating profiles is such a cool interactive piece, and is more advanced coding than we know right now. I don't know how effective the follower size is to measure audience because many followers does not mean high engagement. To better measure engagement, maybe she could have measured average tweet engagement via retweet or like. I really liked the political inclination graph because it provided information I was surprised by. In her analysis, it would have been useful to note if respondents could check more than one box. There may have been few overlap, but it was a question I had looking at the graph trends.
+
+# URL for Milestone 2 repo - https://github.com/janna-ramadan/Milestone_2.git
